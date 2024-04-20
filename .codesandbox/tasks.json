@@ -11,8 +11,7 @@
   "tasks": {
     "develop": {
       "name": "develop",
-      "command": "yarn develop",
-      "runAtStart": false
+      "command": "yarn develop"
     },
     "start": {
       "name": "start",
@@ -24,18 +23,15 @@
     },
     "build": {
       "name": "build",
-      "command": "yarn build",
-      "runAtStart": false
+      "command": "yarn build"
     },
     "serve": {
       "name": "serve",
-      "command": "yarn serve",
-      "runAtStart": false
+      "command": "yarn serve"
     },
     "clean": {
       "name": "clean",
-      "command": "yarn clean",
-      "runAtStart": false
+      "command": "yarn clean"
     },
     "install": {
       "name": "install dependencies",
